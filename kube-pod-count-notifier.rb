@@ -9,7 +9,7 @@ class KubePodCountNotifier < Formula
   license ""
 
   def install
-    bin.install "basix"
+    bin.install "kube-pod-count-notifier"
   end
 
 end

@@ -4,8 +4,8 @@
 class KubePodCountNotifier < Formula
   desc ""
   homepage ""
-  url "https://github.com/susheem-k/kube-pod-count-notifier/archive/refs/tags/v0.1.tar.gz"
-  sha256 "9650010675a28770f6adf3b4b818bab9f32fbeb0f74d02b32d37db8171b04e58"
+  url "https://github.com/susheem-k/kube-pod-count-notifier/archive/refs/tags/v0.2.tar.gz"
+  sha256 "e64cbcec1d8ed919bf616b1958fdafc599a3d90793712efeb1e64acf7da83b0e"
   license ""
 
   def install
